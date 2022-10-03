@@ -21,6 +21,7 @@ const inventory = (currInven, newInven) => {
       return currInven;
 }
 
+//I didn't do this!
 function createOrUpdate(arr1, item) {
     var index = -1;
     while (++index < arr1.length) {
